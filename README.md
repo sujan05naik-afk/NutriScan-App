@@ -85,7 +85,37 @@ python app.py
 
 ## 📸 Screenshots
 
-> Screenshots of the application will be added soon.
+## 📸 Application Screenshots
+
+### 🏠 Home Screen
+
+<img src="screenshots/home.jpeg" width="280">
+
+The home screen provides users with a simple and intuitive interface to begin scanning food products and accessing nutritional information.
+
+---
+
+### 📷 Barcode Scanner
+
+<img src="screenshots/scanner.jpeg" width="280">
+
+The built-in barcode scanner enables users to quickly identify packaged food products using their device's camera.
+
+---
+
+### 🥗 Nutrition Details
+
+<img src="screenshots/nutrition.jpeg" width="280">
+
+Displays comprehensive nutritional information, including calories, proteins, carbohydrates, fats, sugars, and ingredients.
+
+---
+
+### 🕒 Recent Searches
+
+<img src="screenshots/recent.jpeg" width="280">
+
+Allows users to quickly revisit previously scanned products for easy access to nutritional information.
 
 ---
 
