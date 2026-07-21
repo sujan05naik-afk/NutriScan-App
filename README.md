@@ -4,6 +4,30 @@ NutriScan is a Flutter-based mobile application that helps users make healthier 
 
 The application is designed to provide instant access to nutritional values, ingredients, and product information, enabling users to make informed dietary decisions.
 
+<p align="center">
+  <img src="screenshots/NutriScan_icon.png" width="280">
+</p>
+
+<h1 align="center">🥗 NutriScan</h1>
+
+<p align="center">
+  <b>Scan, Know, Choose Better</b>
+</p>
+
+<p align="center">
+  A Flutter-based mobile application that helps users make informed food choices by scanning product barcodes and displaying detailed nutritional information instantly.
+</p>
+
+<p align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-0175C2?logo=dart)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python)
+![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
+
+</p>
+
 ---
 
 ## 📱 Features
